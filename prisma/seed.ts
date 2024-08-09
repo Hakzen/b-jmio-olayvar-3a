@@ -11,3 +11,5 @@ const seed = async () => {
   });
 };
 seed();
+
+//gwapo si olayvar LF UYAB
