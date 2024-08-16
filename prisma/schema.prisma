@@ -12,4 +12,4 @@ model Post {
   title     String
   content   String?
   
-}
+}//hura
